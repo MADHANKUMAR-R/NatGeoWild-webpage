@@ -7,3 +7,4 @@ This is a simple webpage inspired by Nat Geo Wild, designed to capture the essen
 
 ### Screenshots
 ![nat-geo](https://github.com/MADHANKUMAR-R/NatGeoWild-webpage/assets/122138979/8afc7c2b-772f-477c-bc44-c7dabcaf1569)
+# Demo Vedio
