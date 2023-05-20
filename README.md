@@ -12,7 +12,7 @@ This is a simple webpage inspired by Nat Geo Wild, designed to capture the essen
 
 https://github.com/MADHANKUMAR-R/NatGeoWild-webpage/assets/122138979/f004dec1-6ba4-4858-85b3-88233386b497
 
-##Feature
+## Feature
 - Stunning Imagery: The webpage showcases captivating wildlife photography, capturing the awe-inspiring moments and showcasing the diversity of animal species and their habitats.
 - The web page contains menu items with hover effect
 - the buttons also contains the hover effect
