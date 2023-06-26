@@ -6,11 +6,14 @@ This is a simple webpage inspired by Nat Geo Wild, designed to capture the essen
 - [CSS](https://tailwindcss.com)
 
 ### Screenshots
+
+
 ![nat-geo](https://github.com/MADHANKUMAR-R/NatGeoWild-webpage/assets/122138979/8afc7c2b-772f-477c-bc44-c7dabcaf1569)
 ### Demo Vedio
+https://github.com/MADHANKUMAR-R/NatGeoWild-webpage/assets/122138979/2f73b0d5-3a19-45bd-a524-69f6e3a97876
 
 
-https://github.com/MADHANKUMAR-R/NatGeoWild-webpage/assets/122138979/f004dec1-6ba4-4858-85b3-88233386b497
+
 
 ## Feature
 - Stunning Imagery: The webpage showcases captivating wildlife photography, capturing the awe-inspiring moments and showcasing the diversity of animal species and their habitats.
